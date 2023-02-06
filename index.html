@@ -172,7 +172,8 @@
 				<!-- Footer -->
 					<footer id="footer">
 						<section>
-							<form method="POST" action="https://formsubmit.co/98275bee9e9e54caded675839e5ae4f9">
+							<h2>Contact Me</h2>
+							<form method="POST" action="https://formsubmit.co/98275bee9e9e54caded675839e5ae4f9" enctype="multipart/form-data">
 								<div class="fields">
 									<div class="field">
 										<label for="name">Name</label>
@@ -184,7 +185,11 @@
 									</div>
 									<div class="field">
 										<label for="message">Message</label>
-										<textarea placeholder="Your Message" name="message" id="message" rows="5" ></textarea>
+										<textarea placeholder="Your Message" name="message" id="message" rows="5" required></textarea>
+									</div>
+									<div class="field">
+										<label for="files">Attach Files</label>
+										<input multiple type="file" name="attachment" accept=".png,.jpeg,.jpg,.pdf,.doc,.docx,.txt">
 									</div>
 									<div>
 										<input type="hidden" name="_next" value="https://ssarrayya.github.io/thanks.html">
