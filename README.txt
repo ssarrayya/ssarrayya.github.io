@@ -1,4 +1,4 @@
-Using this template by the Author below, I have made adjustments to fir my Portfolio
+Using this template by the Author below, I have made adjustments to for my Portfolio.
 Feel free to reuse my adjustments. If you have any corrections, please make a pull request.
 You can contact me throught the contact section too if you have any questions.
 
