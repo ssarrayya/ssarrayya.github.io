@@ -2948,7 +2948,7 @@ input, select, textarea {
 			margin-top: -0.75rem;
 		}
 
-		header > h4 + p {
+		header > h4 + p + ul{
 			font-size: 0.8rem;
 			margin-top: -0.75rem;
 		}
