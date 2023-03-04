@@ -2841,6 +2841,10 @@ input, select, textarea {
 
 /* List */
 
+	SPAN.li  {
+		display: list-item; margin-left: 2em
+	}
+
 	ol {
 		list-style: decimal;
 		margin: 0 0 2rem 0;
