@@ -2931,6 +2931,10 @@ input, select, textarea {
 		header > p {
 			font-style: italic;
 		}
+		
+		header > ul {
+			font-style: italic;
+		}
 
 		header > h1 + p {
 			font-size: 1.1rem;
