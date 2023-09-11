@@ -2983,7 +2983,7 @@ input, select, textarea {
 				margin: 0 0 4rem 0;
 			}
 
-				header.major > .date:before, header.major > .date:after {
+				header.major > .date:before, header.major > .date:after {im
 					content: '';
 					display: block;
 					position: absolute;
@@ -3942,7 +3942,7 @@ input, select, textarea {
 				}
 
 				#main > .posts > article .image {
-					max-width: 25rem;
+					max-width: 20rem;
 					margin-left: auto;
 					margin-right: auto;
 				}
